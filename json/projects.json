@@ -1,0 +1,37 @@
+[  {
+  "title": "Final Year Projects",
+  "year" : "(2021-2025)",
+  "img": "assets/images/exam.png",
+  "url": "https://drive.google.com/drive/folders/1vDomVrkweBdncFG7BmW1FLMiA8qa8_hM?usp=sharing"
+},
+  {
+    "title": "Final Year Projects",
+    "year" : "(2018-2022)",
+    "img": "assets/images/manuals.png",
+    "url": "https://drive.google.com/file/d/10_Or3tz7_QlnTV_8YEGXsPg54B1KwzRB/view?usp=drive_link"
+  },
+  {
+    "title": "Final Year Projects",
+    "year" : "(2019-2023)",
+    "img": "assets/images/projects.png",
+    "url" : "https://drive.google.com/file/d/1vAJ08y7pKya5gGnz72dKS9ClQk6fTzqL/view?usp=drive_link"
+  },
+  {
+    "title": "Final Year Projects",
+    "year" : "(2020-2024)",
+    "img": "assets/images/exam.png",
+    "url" : "https://drive.google.com/file/d/1f1HrmFNmlksQb5uAA6lIR3tCSPj_AIAL/view?usp=drive_link"
+  },
+  {
+    "title": "8051 Projects Ideas",
+    "year" : "Semester 4",
+    "img": "assets/images/manuals.png",
+    "url" : "https://circuitdigest.com/8051-microcontroller-projects?page=0"
+  },
+  {
+    "title": "555 Timer IC Projects",
+    "year" : "Semester 5",
+    "img": "assets/images/projects.png",
+    "url" : "https://circuitdigest.com/555-timer-circuits"
+  }
+]

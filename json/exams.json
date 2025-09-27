@@ -1,0 +1,59 @@
+[
+
+  {
+    "title": "GATE",
+    "img": "assets/images/exams/exam1.png",
+    "link" : "https://drive.google.com/drive/folders/1waq_rKF149Vn0Y45PqLGBUCb3gkQL9ND?usp=drive_link"
+  },
+  {
+    "title": "UPSC",
+    "img": "assets/images/exams/exam2.png",
+    "link": "https://drive.google.com/drive/folders/1bHNqlWObU86gjVE_E91ikVKwGjLX7PUS"
+  },
+  {
+    "title": "IELTS",
+    "img": "assets/images/exams/exam3.png",
+    "link" : "https://drive.google.com/drive/folders/1occqjSIAPfI6WDsy4SbHJyK1Bnqu0ND9?usp=drive_link"
+  },
+  {
+    "title": "Semester 1",
+    "img": "assets/images/exams/exam4.png",
+    "link": "https://www.ktunotes.in/ktu-s1-s2-question-papers-2019-scheme/"
+  },
+  {
+    "title": "Semester 3",
+    "img": "assets/images/exams/exam5.png",
+    "link" : "https://www.ktunotes.in/ktu-s3-ece-question-papers-2019-scheme/"
+  },
+  {
+    "title": "Semester 4",
+    "img": "assets/images/exams/exam6.png",
+    "link" : "https://www.ktunotes.in/ktu-s4-ece-question-papers/"
+  },
+  {
+    "title": "Semester 5",
+    "img": "assets/images/exams/exam2.png",
+    "link" : "https://www.ktunotes.in/ktu-s5-ece-question-papers-2019-scheme/"
+  },
+  {
+    "title": "Semester 6",
+    "img": "assets/images/exams/exam4.png",
+    "link": "https://www.ktunotes.in/ktu-s6-ece-question-papers/"
+  },
+  {
+    "title": "Semester 7",
+    "img": "assets/images/exams/exam5.png",
+    "link": "https://www.ktunotes.in/ktu-s7-ece-question-papers-2019-scheme/"
+  },
+  {
+    "title": "Semester 8",
+    "img": "assets/images/exams/exam6.png",
+    "link" : "https://drive.google.com/drive/folders/163NjA56eYjxFs18Vsap6EWbCOWnD29qc"
+  },
+  {
+    "title": "M-TECH",
+    "img": "assets/images/exams/exam2.png",
+    "link": "https://drive.google.com/drive/folders/1n_S2H93k1zVUs3rIZ5mEPwHHaQTOLqvU?usp=sharing"
+  }
+
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Manuals",
+    "img": "assets/images/manuals.png"
+  },
+  {
+    "title": "Projects",
+    "img": "assets/images/projects.png"
+  },
+  {
+    "title": "Exams",
+    "img": "assets/images/exam.png"
+  },
+  {
+    "title": "Virtual Labs",
+    "img": "assets/images/vlabs.png"
+  }
+  ]

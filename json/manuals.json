@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Logic Circuit Design",
+    "subtitle": "LCD",
+    "img": "assets/images/manuals/LCD.png",
+    "pdf": "assets/pdfs/LCD.pdf"
+  },
+  {
+    "title": "Scientific Computing Lab",
+    "subtitle": "SCL",
+    "img": "assets/images/manuals/SCL.png",
+    "pdf": "assets/pdfs/SCL.pdf"
+  },
+  {
+    "title": "Analog Circuits",
+    "subtitle": "AC",
+    "img": "assets/images/manuals/AC.png",
+    "pdf": "assets/pdfs/AC.pdf"
+  },
+  {
+    "title": "8051 MC",
+    "subtitle": "CAM",
+    "img": "assets/images/manuals/CAM.png",
+    "pdf": "https://drive.google.com/file/d/15ex5Skm74BD2Kwqy_jm1UNbbELrrEzR6/view?usp=sharing"
+  },
+  {
+    "title": "Digital Signal Processing",
+    "subtitle": "DSP",
+    "img": "assets/images/manuals/DSP.png",
+    "pdf": "https://drive.google.com/file/d/16pzhfOZuvtSe36y0OMQD165eM00p6ZVF/view?usp=sharing"
+  },
+  {
+    "title": "Analog Integrated Circuits",
+    "subtitle": "LIC",
+    "img": "assets/images/manuals/AIC.png",
+    "pdf": "https://drive.google.com/file/d/1efBvWv5iDX0ow6Go6fxQP9t_nYx8UOfF/view?usp=sharing"
+  },
+  {
+    "title": "Communication Lab",
+    "subtitle": "CL",
+    "img": "assets/images/manuals/CL.png",
+    "pdf": "assets/pdfs/CL.pdf"
+  },
+
+  {
+    "title": "ElectroMagnetics",
+    "subtitle": "EM",
+    "img": "assets/images/manuals/EM.png",
+    "pdf": "assets/pdfs/EM.pdf"
+  }
+]
